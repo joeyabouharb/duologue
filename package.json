@@ -1,0 +1,26 @@
+{
+  "name": "duologue",
+  "version": "1.0.0",
+  "description": "a simple user prompt for node (using readline)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeyabouharb/duologue.git"
+  },
+  "keywords": [
+    "prompt",
+    "input",
+    "readline",
+    "user",
+    "cli"
+  ],
+  "author": "joey abouharb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joeyabouharb/duologue/issues"
+  },
+  "homepage": "https://github.com/joeyabouharb/duologue#readme"
+}
